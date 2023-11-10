@@ -23,3 +23,18 @@ Big-O Notastonu: Selection Sort algoritmasının Big O notasyonu O(n^2)'dir.
 3. Adım: [2,3,4,8,7,9,5,15,6] 
 4. Adım: [2,3,4,5,7,9,8,15,6] 
 
+
+**Merge Sort Projesi**
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+**Görev 1**
+1) [16,21,11] , [8,12,22]
+2) Sol: [16] , [21,11] -> [16],[21],[11] -> [16] , [11,21] -> [11,16,21]
+3) Sağ: [8] , [12,22] -> [8],[12],[22] -> [8] , [12,22] -> [8,12,22]
+4) Birleştir: [8,11,12,16,21,22]
+
+**Görev 2**
+Big O Gösterimi: nlogn
