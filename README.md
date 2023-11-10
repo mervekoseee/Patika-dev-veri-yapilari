@@ -38,3 +38,14 @@ Big-O gösterimini yazınız.
 
 **Görev 2**
 Big O Gösterimi: nlogn
+
+
+**Binary Search Tree Projesi**
+           5 
+         /    \
+       3       7
+      / \     / \
+     2  4    6    8
+     / \             \
+     0  1             9 
+
